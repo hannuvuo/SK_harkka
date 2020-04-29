@@ -1,4 +1,4 @@
-//Otsikkotason
+//Otsikkopalkki
 <template>
   <header class="header">
     <h1>Vue-muistio</h1>
@@ -15,7 +15,7 @@ export default {
 }
 </script>
 
-//
+//Headearin tyylit (otsikko ja alatasot)
 <style scoped>
   .header {
     background: linear-gradient(-90deg, #84CF6A, #16C0B0);

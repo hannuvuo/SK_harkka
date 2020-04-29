@@ -5,6 +5,7 @@
   </div>
 </template>
 
+//Haetaan header Header-filestä
 <script>
 import Header from './components/layout/Header';
 export default {
@@ -15,7 +16,7 @@ export default {
 }
 </script>
 
-
+//Tyylit apille
 <style>
   * {
     box-sizing: border-box;
